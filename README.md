@@ -30,7 +30,7 @@
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://github.com/phdev152328-bot">
+<a href="">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
