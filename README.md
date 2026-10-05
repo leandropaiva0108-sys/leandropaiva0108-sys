@@ -30,7 +30,7 @@
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="">
+<a href="https://github.com/leandropaiva0108-sys">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
