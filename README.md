@@ -26,7 +26,7 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/pedro-henrique-ferreira-da-luz-330b31419/">
+<a href="https://www.linkedin.com/public-profile/settings/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact_info%3B%2F75i6nnRQjal%2FplK1hhfHQ%3D%3D">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
