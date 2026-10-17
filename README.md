@@ -67,10 +67,6 @@
 - ✅ JavaScript
 - ✅ Git E Github
 - ✅ Redes
-- ✅ DevSecOps
-- 🚀 NPM
-- 🚀 Docker
-- 🚀 React
 
 ---
 
