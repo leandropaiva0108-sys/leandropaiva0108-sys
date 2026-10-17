@@ -39,10 +39,8 @@
 ---
 
 - 🎯 Focado em Desenvolvimento Full Stack
-- 💻 Estudando Python, JavaScript e FastAPIs e APIsREST
+- 💻 Estudando Python, JavaScript
 - 🌐 Aprendendo Redes de Computadores
-- 🔐 Estudando DevSecOps
-- ☁️ Futuramente AWS e Cloud
 - 📚 Sempre aprendendo novas tecnologias
 
 ---
